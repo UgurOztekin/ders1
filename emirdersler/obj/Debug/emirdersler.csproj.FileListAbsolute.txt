@@ -1,0 +1,6 @@
+c:\users\caspe\documents\visual studio 2015\Projects\emirdersler\emirdersler\bin\Debug\emirdersler.exe.config
+c:\users\caspe\documents\visual studio 2015\Projects\emirdersler\emirdersler\bin\Debug\emirdersler.exe
+c:\users\caspe\documents\visual studio 2015\Projects\emirdersler\emirdersler\bin\Debug\emirdersler.pdb
+c:\users\caspe\documents\visual studio 2015\Projects\emirdersler\emirdersler\obj\Debug\emirdersler.csprojResolveAssemblyReference.cache
+c:\users\caspe\documents\visual studio 2015\Projects\emirdersler\emirdersler\obj\Debug\emirdersler.exe
+c:\users\caspe\documents\visual studio 2015\Projects\emirdersler\emirdersler\obj\Debug\emirdersler.pdb
