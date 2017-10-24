@@ -20,8 +20,12 @@ namespace emirdersler
             List<ogrenci> o = new List<ogrenci>() { new ogrenci
             {
                 adi="Ali", soyadi="yılmaz"
-            }};
-
+            },
+            { new ogrenci
+            {
+                adi="sas", soyadi="yıasdasdlmaz"
+            }} };
+            
             for (int i = 0; i < o.Count; i++)
             {
                 Console.WriteLine(o[i].adi);
