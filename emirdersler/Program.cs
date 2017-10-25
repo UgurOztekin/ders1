@@ -1,4 +1,5 @@
-﻿using System;
+﻿using emirdersler.models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,15 +9,9 @@ namespace emirdersler
 {
     class Program
     {
-
-        public class ogrenci
+        public static void Main(string[] args)
         {
-            public string adi { get; set; }
-            public string soyadi { get; set; }
-        }
-
-       public static void Main(string[] args)
-        {
+            #region ders1
             List<ogrenci> o = new List<ogrenci>() { new ogrenci
             {
                 adi="Ali", soyadi="yılmaz"
@@ -35,6 +30,15 @@ namespace emirdersler
             {
                 Console.WriteLine(item);
             }
+            #endregion
+
+            List<ogrenci> ogrenci1 = new List<ogrenci>();
+           
+            
+
         }
+
+
+
     }
 }

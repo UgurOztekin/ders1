@@ -4,3 +4,9 @@ c:\users\caspe\documents\visual studio 2015\Projects\emirdersler\emirdersler\bin
 c:\users\caspe\documents\visual studio 2015\Projects\emirdersler\emirdersler\obj\Debug\emirdersler.csprojResolveAssemblyReference.cache
 c:\users\caspe\documents\visual studio 2015\Projects\emirdersler\emirdersler\obj\Debug\emirdersler.exe
 c:\users\caspe\documents\visual studio 2015\Projects\emirdersler\emirdersler\obj\Debug\emirdersler.pdb
+C:\Users\uoztekin\Documents\GitHub\ders1\emirdersler\bin\Debug\emirdersler.exe.config
+C:\Users\uoztekin\Documents\GitHub\ders1\emirdersler\obj\Debug\emirdersler.exe
+C:\Users\uoztekin\Documents\GitHub\ders1\emirdersler\obj\Debug\emirdersler.pdb
+C:\Users\uoztekin\Documents\GitHub\ders1\emirdersler\bin\Debug\emirdersler.exe
+C:\Users\uoztekin\Documents\GitHub\ders1\emirdersler\bin\Debug\emirdersler.pdb
+C:\Users\uoztekin\Documents\GitHub\ders1\emirdersler\obj\Debug\emirdersler.csprojResolveAssemblyReference.cache
