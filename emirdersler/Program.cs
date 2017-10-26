@@ -12,7 +12,7 @@ namespace emirdersler
         public static void Main(string[] args)
         {
             #region ders1
-            List<ogrenci> o = new List<ogrenci>() { new ogrenci
+           /* List<ogrenci> o = new List<ogrenci>() { new ogrenci
             {
                 adi="Ali", soyadi="yılmaz"
             },
@@ -29,12 +29,30 @@ namespace emirdersler
             foreach (var item in o)
             {
                 Console.WriteLine(item);
-            }
+            }*/
             #endregion
 
-            List<ogrenci> ogrenci1 = new List<ogrenci>();
-           
-            
+            List<ogrenci> ogrenciler = new List<ogrenci>();
+
+            ogrenciler.Add(new ogrenci { adi = "uğur", soyadi = "öztekin", numarasi = 826 });
+            ogrenciler.Add(new ogrenci { adi = "ali", soyadi = "yılmaz", numarasi = 506 });
+            ogrenciler.Add(new ogrenci { adi = "can", soyadi = "tekin", numarasi = 302 });
+            ogrenciler.Add(new ogrenci { adi = "kemal", soyadi = "aydın", numarasi = 450 });
+            ogrenciler.Add(new ogrenci { adi = "serdar", soyadi = "kartal", numarasi = 358 });
+
+            List<Dersler> dersListesi = new List<Dersler>()
+            {
+                new Dersler() {dersAdi ="Matematik", gecmePuani = 45 },
+                 new Dersler() {dersAdi ="Fizik", gecmePuani = 50 },
+                 new Dersler() {dersAdi ="Kimya", gecmePuani = 48 },
+            };
+
+            foreach (var item in ogrenciler)
+            {
+                Console.WriteLine(item.adi+" "+ item.soyadi +" "+ item.numarasi + item.Dersleri);
+            }
+
+            Console.Read();
 
         }
 
