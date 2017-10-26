@@ -43,8 +43,8 @@ namespace emirdersler
             List<Dersler> dersListesi = new List<Dersler>()
             {
                 new Dersler() {dersAdi ="Matematik", gecmePuani = 45 },
-                 new Dersler() {dersAdi ="Fizik", gecmePuani = 50 },
-                 new Dersler() {dersAdi ="Kimya", gecmePuani = 48 },
+                new Dersler() {dersAdi ="Fizik", gecmePuani = 50 },
+                new Dersler() {dersAdi ="Kimya", gecmePuani = 48 },
             };
 
             foreach (var item in ogrenciler)
